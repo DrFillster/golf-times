@@ -1,0 +1,18 @@
+# Build artifacts
+site/.next/
+site/.open-next/
+site/.vercel/
+site/node_modules/
+
+# Cache / runtime
+output/cache/
+output/last-error.log
+output/digest-LATEST.md
+output/digest-*.md
+
+# Env / secrets — never commit
+.env
+.env.local
+
+# Local wrangler state
+site/.wrangler/
