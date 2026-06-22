@@ -31,6 +31,12 @@ COURSES = [
     ("Prairie Lakes",           "prairie-lakes-golf-course", 1311),
     ("Golf Ranch Richardson",   "golf-ranch-richardson",     18438),
     ("Duck Creek Golf Club",    "duck-creek-golf-club",      10769),
+    # v1.1 additions — recon 2026-06-22
+    ("Cedar Crest",             "cedar-crest-golf-club",     5287),
+    ("Tangle Ridge",            "tangle-ridge-golf-club",    846),
+    ("Riverside (Grand Prairie)","riverside-golf-club",      2338),
+    ("Oak Hollow",              "oak-hollow-golf-course",    42),
+    ("Coyote Ridge",            "coyote-ridge-golf-club",    1261),
 ]
 
 CURL_BASE = [

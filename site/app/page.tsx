@@ -38,6 +38,12 @@ const COURSES: Course[] = [
   { id: "prairie-lakes", name: "Prairie Lakes" },
   { id: "golf-ranch-richardson", name: "Golf Ranch Richardson" },
   { id: "duck-creek", name: "Duck Creek" },
+  // v1.1 additions — recon 2026-06-22 (Philip: "find other munis to scrape")
+  { id: "cedar-crest", name: "Cedar Crest" },
+  { id: "tangle-ridge", name: "Tangle Ridge" },
+  { id: "riverside", name: "Riverside (Grand Prairie)" },
+  { id: "oak-hollow", name: "Oak Hollow" },
+  { id: "coyote-ridge", name: "Coyote Ridge" },
 ];
 
 function feeLabel(cents: number | null): string {
