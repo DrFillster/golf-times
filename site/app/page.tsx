@@ -148,7 +148,7 @@ export default function Home() {
     <main>
       <header>
         <h1>⛳ Dallas Open Tee Times</h1>
-        <p>4 public courses within 15 mi of Lower Greenville. Polled from TeeItUp/Kenna.</p>
+        <p>9 public courses within 15 mi of Lower Greenville. Polled from TeeItUp/Kenna.</p>
       </header>
 
       <div className="controls">
